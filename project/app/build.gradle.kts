@@ -223,7 +223,7 @@ dependencies {
 
     // Utility libraries
     implementation("com.google.dagger:hilt-android:${rootProject.extra["dagger-version"]}")
-    implementation("org.greenrobot:eventbus:3.2.0")
+    implementation("org.greenrobot:eventbus:3.3.1")
 
     // Connectivity
     implementation("org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.5")
